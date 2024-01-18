@@ -1,0 +1,21 @@
+body{
+    background-color:blanchedalmond;
+}
+
+h1{
+    font-family:monospace;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+h2{
+    color: rgb(108, 31, 231);
+}
+
+#beetpic,
+#buddahbowlpic,
+#tacopic
+{
+    max-width: 50px;
+    height: auto;
+}
